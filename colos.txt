@@ -1,0 +1,13 @@
+navbar - #766D4A
+
+book now button - #CF9745
+
+the Italian Res - #FEFEFF
+
+text - #FEFEFF
+
+2nd section body - #CF9745
+
+3rd section body - #766D4A
+
+footer last - #766D4A
