@@ -6,6 +6,7 @@
 body{
     font-family: sans-serif;
     line-height: 18px;
+    background: #766d4a;
 }
 
 .template{
@@ -304,7 +305,7 @@ body{
     margin-top: 0px;
     background: #504b37d6;
     width: 480px;
-    height: 405px;
+    height: 400px;
 }
 
 .address-section h2{
@@ -329,4 +330,75 @@ body{
     padding-top: 40px;
     text-align: center;
     color: #fff;
+}
+
+.footer-section{
+    margin-top: 0;
+    padding-top: 0;
+    width: 100%;
+    height: 700px;
+}
+
+.footer-details{
+    width: 100%;
+    margin-top: 15%;
+    padding-top: 10%;
+    background: #cf9745;
+    height: 450px;
+}
+
+.footer-left{
+    float: left;
+    width: 500px;
+    padding-left: 10%;
+    padding-right: 10px;
+}
+
+.footer-left h4{
+    font-size: 25px;
+    line-height: 40px;
+    padding-bottom: 10px;
+    color: #fffafb;
+    text-transform: uppercase;
+}
+
+.footer-left p{
+    color: #fffafb;
+    line-height: 23px;
+    font-size: 16px;
+}
+
+.footer-right{
+    float: right;
+    width: 475px;
+}
+
+.details-row{
+    float: left;
+    margin-right: 20%;
+}
+
+.details-row h4{
+    font-size: 25px;
+    line-height: 40px;
+    padding-bottom: 10px;
+    color: #fffafb;
+    text-transform: uppercase;
+}
+
+.details-row h6{
+    color: #fffafb;
+    font-size: 18px;
+    padding-top: 15px;
+    line-height: 25px;
+}
+
+.social-media{
+    margin-top: 10%;
+    margin-left: 38%;
+    float: left;
+}
+
+.social-media img{
+    padding-left: 15px;
 }
