@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -293,10 +297,6 @@ body{
     line-height: 45px;
     font-weight: normal;
     color: #fffafb;
-}
-
-.map-section{
-
 }
 
 .address-section{
